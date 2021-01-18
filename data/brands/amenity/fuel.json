@@ -5273,7 +5273,7 @@
     {
       "displayName": "台塑石油",
       "id": "formosapetrochemicalcorporation-b3d110",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["tw"]},
       "tags": {
         "amenity": "fuel",
         "brand": "台塑石油",
@@ -5323,11 +5323,14 @@
     {
       "displayName": "福懋加油站",
       "id": "2dae50-b3d110",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["tw"]},
       "tags": {
         "amenity": "fuel",
         "brand": "福懋加油站",
-        "name": "福懋加油站"
+        "brand:wikidata": "Q104883038",
+        "name": "福懋加油站",
+        "name:en": "Formosa Taffeta",
+        "name:zh": "福懋加油站"
       }
     }
   ]
